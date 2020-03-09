@@ -1,0 +1,115 @@
+body{
+    background-color: maroon;
+    padding: 50px;
+}
+.main{
+    width: 100%;
+    height: 600px;
+    background-color: #fff;
+}
+.one{
+    width: 100%;
+    height: 100px;
+/*    background-color: dimgray;*/
+}
+.topLeft{
+    background-color: navajowhite;
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.topRight{
+    text-align: right;
+    background-color: blue;
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.topRight img{
+    width : 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.two{
+    width: 100%;
+    height: 50px;
+    background-color: dimgray;
+}
+.box{
+    width: 25%;
+    height: 100%;
+    background-color: black;
+    float: left;
+}
+.box_1{
+    background-color: red;
+}
+.box_2{
+    background-color: yellow;
+}
+.box_3{
+    background-color: green;
+}
+
+.box_4{
+    background-color: orange;
+}
+.three{
+    width: 100%;
+    height: 300px;
+}
+.body1,.body2,.body3{
+    width: 33%;
+    height: 100%;
+    background-color: skyblue;
+    float: left;
+}
+.body1{
+    background-color: green;
+}
+.body2{
+    background-color: red;
+}
+.body3{
+    background-color: lightblue;
+}
+.widget1,.widget2,.widget3,.widget4{
+    width: 100%;
+    height: 75px;
+    background-color: skyblue;
+    float: left;
+}
+.widget1{
+    background-color: dimgrey;
+}
+.widget2{
+    background-color: salmon;
+}
+.widget3{
+    background-color: darkcyan;
+}
+.widget4{
+    background-color: orchid;
+}
+.four{
+    width: 100%;
+    height: 50px;
+    
+}
+.foot{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
